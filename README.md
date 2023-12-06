@@ -10,5 +10,5 @@ I got 860 scores in TOEIC and I worked at Ministop for main store manager to Nov
 
 ## My Playlists
 [![music1](https://img.shields.io/badge/music1-Iloveyou3000-green)](https://www.youtube.com/watch?v=cPkE0IbDVs4)
-[![music1](https://img.shields.io/badge/music1-Iloveyou3000-brown)](https://www.youtube.com/watch?v=pPAAFMtDUzo)
+[![music1](https://img.shields.io/badge/music2-Changes-brown)](https://www.youtube.com/watch?v=pPAAFMtDUzo)
 [![music3](https://img.shields.io/badge/music3-PerfectNight-purple)](https://www.youtube.com/watch?v=hLvWy2b857I)
