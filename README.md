@@ -22,3 +22,5 @@ I got 860 scores in TOEIC and I worked at Ministop for main store manager to Nov
  ## What does wivlxyuu mean?
  
 ![IMG_0170](https://github.com/wiv-lxyuu/wiv-lxyuu/assets/144201110/703cab8a-11cf-423b-b6be-81b28940366e)
+
+I made wiv with min inside out, and lx means k. So, wivlxyuu means minkyu.
