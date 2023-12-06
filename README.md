@@ -4,7 +4,8 @@
 I was born in 2005.Jan.3rd in Ansan.
 
 ## My Specification
+[!이미지](https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F003%2F2023%2F11%2F09%2FNISI20230511_0001263677_web_20230511161446_20231109111412615.jpg&type=l340_110)
 I got 860 scores in TOEIC and I worked at Ministop for main store manager to November.
 
 ## My Favorites
-<img src="https://img.shields.io/badge/{Favorite song 1}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
+[![music1](https://img.shields.io/badge/music1-green)](https://www.instagram.com/wivlxyuu/](https://www.youtube.com/watch?v=cPkE0IbDVs4)https://www.youtube.com/watch?v=cPkE0IbDVs4)
