@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mingyu
-
+[![insta](https://img.shields.io/badge/insta-pink)](https://www.instagram.com/wivlxyuu/)
 ## Where, When were you born?
 I was born in 2005.Jan.3rd in Ansan.
 
